@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Adapting QANet SQuAD 2.0 - Final Report.aux
+The style file: plain.bst
+Database file #1: ../references/References.bib
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            591 strings with 7958 characters,
+and the built_in function-call counts, 7437 in all, are:
+= -- 692
+> -- 465
+< -- 7
++ -- 183
+- -- 162
+* -- 494
+:= -- 1274
+add.period$ -- 62
+call.type$ -- 21
+change.case$ -- 143
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 278
+empty$ -- 492
+format.name$ -- 162
+if$ -- 1524
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 20
+newline$ -- 107
+num.names$ -- 42
+pop$ -- 161
+preamble$ -- 1
+purify$ -- 122
+quote$ -- 0
+skip$ -- 227
+stack$ -- 0
+substring$ -- 289
+swap$ -- 79
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 84
+warning$ -- 0
+while$ -- 57
+width$ -- 23
+write$ -- 217

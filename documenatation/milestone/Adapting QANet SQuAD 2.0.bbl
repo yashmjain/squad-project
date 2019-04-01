@@ -1,0 +1,80 @@
+\begin{thebibliography}{10}
+
+\bibitem{burges2013towards}
+Christopher~JC Burges.
+\newblock Towards the machine comprehension of text: An essay.
+\newblock {\em TechReport: MSR-TR-2013-125}, 2013.
+
+\bibitem{clark2017simple}
+Christopher Clark and Matt Gardner.
+\newblock Simple and effective multi-paragraph reading comprehension.
+\newblock {\em arXiv preprint arXiv:1710.10723}, 2017.
+
+\bibitem{dai2019transformerxl}
+Zihang Dai*, Zhilin Yang*, Yiming Yang, William~W. Cohen, Jaime Carbonell,
+  Quoc~V. Le, and Ruslan Salakhutdinov.
+\newblock Transformer-{XL}: Language modeling with longer-term dependency,
+  2019.
+
+\bibitem{devlin2018bert}
+Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova.
+\newblock Bert: Pre-training of deep bidirectional transformers for language
+  understanding.
+\newblock {\em arXiv preprint arXiv:1810.04805}, 2018.
+
+\bibitem{hu2018read+}
+Minghao Hu, Yuxing Peng, Zhen Huang, Nan Yang, Ming Zhou, et~al.
+\newblock Read+ verify: Machine reading comprehension with unanswerable
+  questions.
+\newblock {\em arXiv preprint arXiv:1808.05759}, 2018.
+
+\bibitem{peters2018deep}
+Matthew~E Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark,
+  Kenton Lee, and Luke Zettlemoyer.
+\newblock Deep contextualized word representations.
+\newblock {\em arXiv preprint arXiv:1802.05365}, 2018.
+
+\bibitem{rajpurkar2018know}
+Pranav Rajpurkar, Robin Jia, and Percy Liang.
+\newblock Know what you don't know: Unanswerable questions for squad.
+\newblock {\em arXiv preprint arXiv:1806.03822}, 2018.
+
+\bibitem{rajpurkar2016squad}
+Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang.
+\newblock Squad: 100,000+ questions for machine comprehension of text.
+\newblock {\em arXiv preprint arXiv:1606.05250}, 2016.
+
+\bibitem{seo2016bidirectional}
+Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi.
+\newblock Bidirectional attention flow for machine comprehension.
+\newblock {\em arXiv preprint arXiv:1611.01603}, 2016.
+
+\bibitem{sugawara2017evaluation}
+Saku Sugawara, Yusuke Kido, Hikaru Yokono, and Akiko Aizawa.
+\newblock Evaluation metrics for machine reading comprehension: Prerequisite
+  skills and readability.
+\newblock In {\em Proceedings of the 55th Annual Meeting of the Association for
+  Computational Linguistics (Volume 1: Long Papers)}, volume~1, pages 806--817,
+  2017.
+
+\bibitem{vsuster2018clicr}
+Simon {\v{S}}uster and Walter Daelemans.
+\newblock Clicr: a dataset of clinical case reports for machine reading
+  comprehension.
+\newblock {\em arXiv preprint arXiv:1803.09720}, 2018.
+
+\bibitem{vaswani2017attention}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N Gomez, {\L}ukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  5998--6008, 2017.
+
+\bibitem{yu2018qanet}
+Adams~Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad
+  Norouzi, and Quoc~V Le.
+\newblock Qanet: Combining local convolution with global self-attention for
+  reading comprehension.
+\newblock {\em arXiv preprint arXiv:1804.09541}, 2018.
+
+\end{thebibliography}

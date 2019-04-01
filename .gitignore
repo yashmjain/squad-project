@@ -1,0 +1,29 @@
+.DS_Store
+.idea/
+__pycache__
+.texpadtmp/
+data/
+data-small/
+data-tiny/
+save/
+save_baseline
+documenatation/Diagrams.pptx
+project_milestone_tex_files/NeurIPS2018 - Copy.tex
+project_milestone_tex_files/NeurIPS2018.aux
+project_milestone_tex_files/NeurIPS2018.bbl
+project_milestone_tex_files/NeurIPS2018.blg
+project_milestone_tex_files/NeurIPS2018.dvi
+project_milestone_tex_files/NeurIPS2018.log
+project_milestone_tex_files/NeurIPS2018.out
+project_milestone_tex_files/NeurIPS2018.synctex.gz
+project_milestone_tex_files/References - Copy.bib
+project_milestone_tex_files/QANetModelDiagram.PNG
+.spyproject/
+*.log
+*.out
+code_compressed/
+documenatation/data_analysis/Consolidated analysis.xlsx
+out.txt
+poc.py
+out1.txt
+README
